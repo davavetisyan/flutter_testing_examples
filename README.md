@@ -1,4 +1,4 @@
-# weather_app_tdd
+# Flutter unit test
 
 A new Flutter project.
 

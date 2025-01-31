@@ -1,0 +1,24 @@
+{
+    "name" : "New York", 
+	"coord": {
+		"lon": -74.006,
+		"lat": 40.7143
+	},
+	"weather": [
+		{
+			"id": 800,
+			"main": "Clear",
+			"description": "clear sky",
+			"icon": "01n"
+		}
+	],
+	"base": "stations",
+	"main": {
+		"temp": 292.87,
+		"feels_like": 292.73,
+		"temp_min": 290.47,
+		"temp_max": 294.25,
+		"pressure": 1012,
+		"humidity": 70
+	}
+}
